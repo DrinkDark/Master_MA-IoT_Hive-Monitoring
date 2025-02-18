@@ -11,7 +11,7 @@ This project, developed as part of the MA_IoT course at HES-SO, aims to create a
 - Scalable architecture to support up to 100,000 devices.
 
 ## System Architecture
-![](rapport/images/project_ruche.png)
+![](rapport/images/projet_ruche.png)
 
 ## System Components
 ### Hardware
